@@ -1,0 +1,65 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1703152853215,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1726723637367,
+        "title": "Github",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1726723597690,
+            "title": "Pintree -  收藏夹转网站",
+            "icon": "https://logo.clearbit.com/pintree.io",
+            "url": "https://pintree.io/guide-zh.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1727087296139,
+            "title": "kimmknight/remoteapptool: Create and manage RemoteApps hosted ",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/kimmknight/remoteapptool?tab=readme-ov-file"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727087219491,
+        "title": "Linux技巧",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727087202581,
+            "title": "Linux（centos6.7）下搭建tftp_centos openssh tftp-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/chen_chensy/article/details/52195183"
+          },
+          {
+            "type": "link",
+            "addDate": 1727144135500,
+            "title": "alpine-dhcp - WOAHBase Alpine项目合集",
+            "icon": "https://logo.clearbit.com/woahbase.online",
+            "url": "https://woahbase.online/images/alpine-dhcp/#as-a-service"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727152604496,
+        "title": "SelfHosted自建服务",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727150950281,
+            "title": "观澜湖海南OA",
+            "icon": "https://logo.clearbit.com/oamov.missionhillschina.com",
+            "url": "http://oamov.missionhillschina.com:8010/eoffice10/client/web/login"
+          }
+        ]
+      }
+    ]
+  }
+]
