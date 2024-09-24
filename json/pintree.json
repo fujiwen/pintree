@@ -50,6 +50,41 @@
             "title": "一款全能的下载工具imfile-io/imfile-desktop",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/imfile-io/imfile-desktop"
+          },
+          {
+            "type": "link",
+            "addDate": 1727171478164,
+            "title": "平台通用的换源工具P403n1x87/austin: Python frame stack sampler for CPython",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/P403n1x87/austin"
+          },
+          {
+            "type": "link",
+            "addDate": 1727171607452,
+            "title": "服务运行状态页面cachethq/cachet: 🚦 The open-source status page system.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/cachethq/cachet"
+          },
+          {
+            "type": "link",
+            "addDate": 1727172029598,
+            "title": "基于 Cloudflare 带访问统计的短链平台ccbikai/Sink: ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ccbikai/Sink"
+          },
+          {
+            "type": "link",
+            "addDate": 1727172485884,
+            "title": "简化浏览器自动化的 Python 库mherrmann/helium: Lighter web automation with Python",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mherrmann/helium"
+          },
+          {
+            "type": "link",
+            "addDate": 1727172819118,
+            "title": "复古终端 GIF 展示 GitHub 个人资料x0rzavi/github-readme-terminal: ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/x0rzavi/github-readme-terminal"
           }
         ]
       },
