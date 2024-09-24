@@ -19,9 +19,37 @@
           {
             "type": "link",
             "addDate": 1727087296139,
-            "title": "kimmknight/remoteapptool: Create and manage RemoteApps hosted ",
+            "title": "kimmknight/remoteapptool: 远桌开启应用",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/kimmknight/remoteapptool?tab=readme-ov-file"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164660187,
+            "title": "caorushizi/mediago:流媒体下载",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/caorushizi/mediago"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164804826,
+            "title": "在闲置的安卓机上安装 Linux 系统打造成生产力工具",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s/iExGtiM3gNj7YxL88-e50g"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164950342,
+            "title": "qiye45/wechatDownload: 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/mhtml/md/pdf/docx文件",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/qiye45/wechatDownload"
+          },
+          {
+            "type": "link",
+            "addDate": 1727165015375,
+            "title": "imfile-io/imfile-desktop:一款全能的下载工具",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/imfile-io/imfile-desktop"
           }
         ]
       },
@@ -57,6 +85,146 @@
             "title": "观澜湖海南OA",
             "icon": "https://logo.clearbit.com/oamov.missionhillschina.com",
             "url": "http://oamov.missionhillschina.com:8010/eoffice10/client/web/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1727163821467,
+            "title": "PDF工具",
+            "icon": "https://logo.clearbit.com/pdf.hksft.com",
+            "url": "https://pdf.hksft.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727163843404,
+            "title": "RSS公众号",
+            "icon": "https://logo.clearbit.com/wewe.hksft.com",
+            "url": "https://wewe.hksft.com/dash/feeds/MP_WXS_3093627441"
+          },
+          {
+            "type": "link",
+            "addDate": 1727163891828,
+            "title": "Mychecks计划任务检查",
+            "icon": "https://logo.clearbit.com/cron.hksft.com",
+            "url": "https://cron.hksft.com/projects/f126f545-47d8-4104-893d-f811de4ee94b/checks/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727163930325,
+            "title": "Readeck文章收藏站",
+            "icon": "https://logo.clearbit.com/readeck.hksft.com",
+            "url": "https://readeck.hksft.com/bookmarks/unread"
+          },
+          {
+            "type": "link",
+            "addDate": 1727163966116,
+            "title": "Xtransfer文件分享",
+            "icon": "https://logo.clearbit.com/x.hksft.com",
+            "url": "https://x.hksft.com/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164024246,
+            "title": "RAWeb - 用远桌打开APP",
+            "icon": "https://logo.clearbit.com/rdp.hksft.com",
+            "url": "https://rdp.hksft.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164052041,
+            "title": "Audio Station群晖音乐库",
+            "icon": "https://logo.clearbit.com/music.hksft.com",
+            "url": "https://music.hksft.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164130155,
+            "title": "酒店自助打印机后台",
+            "icon": "https://logo.clearbit.com/yongfu.iyint.com",
+            "url": "https://yongfu.iyint.com/Admin/Login"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164179186,
+            "title": "HertzBeat服务监控",
+            "icon": "https://logo.clearbit.com/10.0.0.11",
+            "url": "http://10.0.0.11:1157/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727164243508,
+        "title": "时代城",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727164249999,
+            "title": "Lucky时代城",
+            "icon": "https://logo.clearbit.com/10.0.0.2",
+            "url": "http://10.0.0.2:16601/#/about"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164256724,
+            "title": "1Panel时代城",
+            "icon": "https://logo.clearbit.com/10.0.0.2",
+            "url": "http://10.0.0.2:18181/fujiwen"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164289232,
+            "title": "NPS时代城",
+            "icon": "https://logo.clearbit.com/10.0.0.2",
+            "url": "http://10.0.0.2:1182/login/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164319724,
+            "title": "Xtransfer -大附件共享",
+            "icon": "https://logo.clearbit.com/10.0.0.2",
+            "url": "http://10.0.0.2:8566/#/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164344563,
+            "title": "Portainer时代城",
+            "icon": "https://logo.clearbit.com/10.0.0.2",
+            "url": "https://10.0.0.2:9443/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164375435,
+            "title": "青龙 - 时代城",
+            "icon": "https://logo.clearbit.com/10.0.0.2",
+            "url": "http://10.0.0.2:5700/crontab"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164390327,
+            "title": "DDNS-GO时代城",
+            "icon": "https://logo.clearbit.com/10.0.0.2",
+            "url": "http://10.0.0.2:9876/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727164454048,
+        "title": "腾讯Host",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727164418893,
+            "title": "Lucky腾讯",
+            "icon": "https://logo.clearbit.com/10.0.0.19",
+            "url": "http://10.0.0.19:16601/#/about"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164467320,
+            "title": "1Panel腾讯",
+            "icon": "https://logo.clearbit.com/10.0.0.19",
+            "url": "http://10.0.0.19:25733/fujiwen"
           }
         ]
       }
