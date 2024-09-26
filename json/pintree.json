@@ -151,13 +151,6 @@
           },
           {
             "type": "link",
-            "addDate": 1727163930325,
-            "title": "Readeck文章收藏站",
-            "icon": "https://logo.clearbit.com/readeck.hksft.com",
-            "url": "https://readeck.hksft.com/bookmarks/unread"
-          },
-          {
-            "type": "link",
             "addDate": 1727163966116,
             "title": "Xtransfer文件分享",
             "icon": "https://logo.clearbit.com/x.hksft.com",
@@ -307,6 +300,27 @@
       },
       {
         "type": "link",
+        "addDate": 1727320354007,
+        "title": "YesPlayMusic",
+        "icon": "https://logo.clearbit.com/yes.hksft.com",
+        "url": "https://yes.hksft.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727356407066,
+        "title": "IPTV节目源",
+        "icon": "https://logo.clearbit.com/iptv.kman.xyz",
+        "url": "https://iptv.kman.xyz/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727328122331,
+        "title": "Docker加速",
+        "icon": "https://logo.clearbit.com/docker.kman.xyz",
+        "url": "https://docker.kman.xyz/"
+      },
+      {
+        "type": "link",
         "addDate": 1727264881099,
         "title": "PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.",
         "icon": "https://logo.clearbit.com/pairdrop.kman.online",
@@ -318,6 +332,13 @@
         "title": "大附件分享Xtransfer",
         "icon": "https://logo.clearbit.com/x.kman.online",
         "url": "https://x.kman.online:8888/#/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727163930325,
+        "title": "Readeck文章收藏站",
+        "icon": "https://logo.clearbit.com/readeck.hksft.com",
+        "url": "https://readeck.hksft.com/bookmarks/unread"
       }
     ]
   }
