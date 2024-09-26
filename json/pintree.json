@@ -85,6 +85,13 @@
             "title": "复古终端 GIF 展示 GitHub 个人资料x0rzavi/github-readme-terminal: ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/x0rzavi/github-readme-terminal"
+          },
+          {
+            "type": "link",
+            "addDate": 1727243351036,
+            "title": "跨平台的剪贴板管理工具EcoPasteHub/EcoPaste: 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/EcoPasteHub/EcoPaste"
           }
         ]
       },
@@ -260,8 +267,57 @@
                 "url": "http://10.0.0.19:25733/fujiwen"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1727182063141,
+            "title": "酒店服务",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727182024486,
+                "title": "Marcom Files",
+                "icon": "https://logo.clearbit.com/10.135.33.41",
+                "url": "http://10.135.33.41:5245/"
+              }
+            ]
           }
         ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727186930936,
+        "title": "Portainer",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727186892127,
+            "title": "Portainer时代城",
+            "icon": "https://logo.clearbit.com/10.0.0.2",
+            "url": "https://10.0.0.2:9443/#!/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1727186964847,
+            "title": "Danted酒店-Portainer",
+            "icon": "https://logo.clearbit.com/192.168.0.33",
+            "url": "https://192.168.0.33:9443/#!/auth"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1727264881099,
+        "title": "PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.",
+        "icon": "https://logo.clearbit.com/pairdrop.kman.online",
+        "url": "https://pairdrop.kman.online:8888/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727310652290,
+        "title": "大附件分享Xtransfer",
+        "icon": "https://logo.clearbit.com/x.kman.online",
+        "url": "https://x.kman.online:8888/#/"
       }
     ]
   }
