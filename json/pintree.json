@@ -346,13 +346,6 @@
         "title": "观澜湖海南OA",
         "icon": "https://logo.clearbit.com/oamov.missionhillschina.com",
         "url": "http://oamov.missionhillschina.com:8010/eoffice10/client/web/login"
-      },
-      {
-        "type": "link",
-        "addDate": 1727492662934,
-        "title": "Cisco Systems Login",
-        "icon": "https://logo.clearbit.com/111.28.149.135",
-        "url": "https://111.28.149.135:50443/"
       }
     ]
   }
