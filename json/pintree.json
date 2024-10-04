@@ -346,6 +346,20 @@
         "title": "观澜湖海南OA",
         "icon": "https://logo.clearbit.com/oamov.missionhillschina.com",
         "url": "http://oamov.missionhillschina.com:8010/eoffice10/client/web/login"
+      },
+      {
+        "type": "link",
+        "addDate": 1727528163556,
+        "title": "IPCheck.ing - 查看我的 IP 地址 ",
+        "icon": "https://logo.clearbit.com/ip.hksft.com",
+        "url": "https://ip.hksft.com/#/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727694066497,
+        "title": "Navidrome私人音乐站",
+        "icon": "https://logo.clearbit.com/music.hksft.com",
+        "url": "https://music.hksft.com/app/#/album/all?sort=name&order=ASC&filter={}"
       }
     ]
   }
