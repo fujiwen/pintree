@@ -6,6 +6,55 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1728566643442,
+        "title": "1panel",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1728566601130,
+            "title": "1panel时代城",
+            "icon": "https://logo.clearbit.com/10.0.0.2",
+            "url": "http://10.0.0.2:18181/fujiwen"
+          },
+          {
+            "type": "link",
+            "addDate": 1728566657664,
+            "title": "1Panel-ubuntuHost",
+            "icon": "https://logo.clearbit.com/10.0.0.18",
+            "url": "http://10.0.0.18:18181/fujiwen"
+          },
+          {
+            "type": "link",
+            "addDate": 1728566702500,
+            "title": "loading...",
+            "icon": "https://logo.clearbit.com/10.0.0.19",
+            "url": "http://10.0.0.19:25733/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164467320,
+            "title": "1Panel腾讯-UbuntuHOST",
+            "icon": "https://logo.clearbit.com/10.0.0.19",
+            "url": "http://10.0.0.19:25733/fujiwen"
+          },
+          {
+            "type": "link",
+            "addDate": 1728566719076,
+            "title": "1Panel - Minio",
+            "icon": "https://logo.clearbit.com/10.0.0.21",
+            "url": "http://10.0.0.21:18181/fujiwen"
+          },
+          {
+            "type": "link",
+            "addDate": 1728752593690,
+            "title": "FnOS",
+            "icon": "https://logo.clearbit.com/10.0.0.15",
+            "url": "http://10.0.0.15:18181/fujiwen"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1726723637367,
         "title": "Github",
         "children": [
@@ -165,13 +214,6 @@
           },
           {
             "type": "link",
-            "addDate": 1727164130155,
-            "title": "酒店自助打印机后台",
-            "icon": "https://logo.clearbit.com/yongfu.iyint.com",
-            "url": "https://yongfu.iyint.com/Admin/Login"
-          },
-          {
-            "type": "link",
             "addDate": 1727164179186,
             "title": "HertzBeat服务监控",
             "icon": "https://logo.clearbit.com/10.0.0.11",
@@ -244,13 +286,6 @@
                 "title": "Lucky腾讯",
                 "icon": "https://logo.clearbit.com/10.0.0.19",
                 "url": "http://10.0.0.19:16601/#/about"
-              },
-              {
-                "type": "link",
-                "addDate": 1727164467320,
-                "title": "1Panel腾讯",
-                "icon": "https://logo.clearbit.com/10.0.0.19",
-                "url": "http://10.0.0.19:25733/fujiwen"
               }
             ]
           },
@@ -292,6 +327,188 @@
         ]
       },
       {
+        "type": "folder",
+        "addDate": 1729609689062,
+        "title": "Collection收集",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727269175652,
+            "title": "docker搭建网易云音乐API-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/only_Tokimeki/article/details/109298403"
+          },
+          {
+            "type": "link",
+            "addDate": 1727320675325,
+            "title": "GD音乐台 - GD Studio's Online Music Platform",
+            "icon": "https://logo.clearbit.com/music.gdstudio.xyz",
+            "url": "https://music.gdstudio.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727341346987,
+            "title": "Pintree",
+            "icon": "https://logo.clearbit.com/kman.homes",
+            "url": "https://kman.homes/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728365926609,
+            "title": "Spotify - SPA Music",
+            "icon": "https://logo.clearbit.com/open.spotify.com",
+            "url": "https://open.spotify.com/artist/1SCcGiO55FdSBUB1EHUlhc"
+          },
+          {
+            "type": "link",
+            "addDate": 1728549288850,
+            "title": "个人部署immich以及遇到问题和解决方案 - 哔哩哔哩",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/read/cv36364378/?jump_opus=1"
+          },
+          {
+            "type": "link",
+            "addDate": 1728724087864,
+            "title": "狼哥哩个狼个人动态-狼哥哩个狼动态记录-哔哩哔哩视频",
+            "icon": "https://logo.clearbit.com/space.bilibili.com",
+            "url": "https://space.bilibili.com/295032769/dynamic"
+          },
+          {
+            "type": "link",
+            "addDate": 1728471876485,
+            "title": "最近建码 - 草料文本二维码生成器",
+            "icon": "https://logo.clearbit.com/cli.im",
+            "url": "https://cli.im/text/other"
+          },
+          {
+            "type": "link",
+            "addDate": 1729436782782,
+            "title": "4K剧集-夸父资源社-优质夸克网盘资源分享社区",
+            "icon": "https://logo.clearbit.com/www.kuafuzys.com",
+            "url": "https://www.kuafuzys.com/forum-6.htm"
+          },
+          {
+            "type": "link",
+            "addDate": 1729437944819,
+            "title": "momo6688 | Link3",
+            "icon": "https://logo.clearbit.com/link3.cc",
+            "url": "https://link3.cc/momo6688"
+          },
+          {
+            "type": "link",
+            "addDate": 1729437966160,
+            "title": "云端奇趣",
+            "icon": "https://logo.clearbit.com/www.kdocs.cn",
+            "url": "https://www.kdocs.cn/l/ciOTnCfh0YJm?R=L1MvMw=="
+          },
+          {
+            "type": "link",
+            "addDate": 1729437997817,
+            "title": "默默汁源---不断更新",
+            "icon": "https://logo.clearbit.com/www.kdocs.cn",
+            "url": "https://www.kdocs.cn/l/ctDlLbauqApa"
+          },
+          {
+            "type": "link",
+            "addDate": 1729570395260,
+            "title": "Download Update for Microsoft Outlook 2016 (KB4011240) 64-Bit Edition from Official Microsoft Download Center",
+            "icon": "https://logo.clearbit.com/www.microsoft.com",
+            "url": "https://www.microsoft.com/en-us/download/details.aspx?id=56161"
+          },
+          {
+            "type": "link",
+            "addDate": 1729582607552,
+            "title": "HP EliteDesk 800 G4 / G5 Mini with RX560x dGPU (hackintosh) - Page 2 - Installation Guides | InsanelyMac",
+            "icon": "https://logo.clearbit.com/www.insanelymac.com",
+            "url": "https://www.insanelymac.com/forum/topic/359277-hp-elitedesk-800-g4-g5-mini-with-rx560x-dgpu-hackintosh/page/2/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729582624365,
+            "title": "10h30/macos-sonoma-efi-opencore-hp-elitedesk-800-g4-g5-mini at vnrom.net",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/10h30/macos-sonoma-efi-opencore-hp-elitedesk-800-g4-g5-mini?ref=vnrom.net"
+          },
+          {
+            "type": "folder",
+            "addDate": 1728310476095,
+            "title": "Nintendo Switch",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728310071647,
+                "title": "switch喵喵喵 - 塞尔达传说 智慧的再现（The Legend of Zelda Echoes of Wisdom）v1.01中文版",
+                "icon": "https://logo.clearbit.com/www.switchmmm.com",
+                "url": "https://www.switchmmm.com/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4-%E6%99%BA%E6%85%A7%E7%9A%84%E5%86%8D%E7%8E%B0%EF%BC%88the-legend-of-zelda-echoes-of-wisdom%EF%BC%89v1.01%E4%B8%AD%E6%96%87%E7%89%88"
+              },
+              {
+                "type": "link",
+                "addDate": 1728308874304,
+                "title": "搭建游戏库-Playnite",
+                "icon": "https://logo.clearbit.com/post.smzdm.com",
+                "url": "https://post.smzdm.com/p/a0x538z9/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728311025371,
+                "title": "塞尔达传说 智慧的再现（The Legend of Zelda Echoes of Wisdom）v1.01中文版",
+                "icon": "https://logo.clearbit.com/www.flysheep6.com",
+                "url": "https://www.flysheep6.com/archives/52090"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1729352792522,
+            "title": "HAIDAN :: 登录 海胆之家 - Powered by NexusPHP",
+            "icon": "https://logo.clearbit.com/www.haidan.video",
+            "url": "https://www.haidan.video/login.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1729435760898,
+            "title": "GPS Tracking Software - Free and Open Source System - Traccar",
+            "icon": "https://logo.clearbit.com/www.traccar.org",
+            "url": "https://www.traccar.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727150950281,
+            "title": "观澜湖海南OA",
+            "icon": "https://logo.clearbit.com/oamov.missionhillschina.com",
+            "url": "http://oamov.missionhillschina.com:8010/eoffice10/client/web/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1727492314090,
+            "title": "云数自动售货机管理系统",
+            "icon": "https://logo.clearbit.com/ourvend.com",
+            "url": "http://ourvend.com:83/Account/Login"
+          },
+          {
+            "type": "link",
+            "addDate": 1727492173524,
+            "title": "云数商户管理平台-SAAS自动售货机云平台",
+            "icon": "https://logo.clearbit.com/saas.ourvend.com",
+            "url": "https://saas.ourvend.com/#/dataCenter/fileDownloadCenter"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164130155,
+            "title": "酒店自助打印机后台",
+            "icon": "https://logo.clearbit.com/yongfu.iyint.com",
+            "url": "https://yongfu.iyint.com/Admin/Login"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1729609827562,
+        "title": "Xtransfer大附件分享",
+        "icon": "https://logo.clearbit.com/x.kman.xyz",
+        "url": "https://x.kman.xyz/#/"
+      },
+      {
         "type": "link",
         "addDate": 1727163930325,
         "title": "Readeck文章收藏站",
@@ -300,66 +517,31 @@
       },
       {
         "type": "link",
-        "addDate": 1727310652290,
-        "title": "大附件分享Xtransfer",
-        "icon": "https://logo.clearbit.com/x.kman.online",
-        "url": "https://x.kman.online:8888/#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1727320354007,
-        "title": "YesPlayMusic",
-        "icon": "https://logo.clearbit.com/yes.hksft.com",
-        "url": "https://yes.hksft.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1727356407066,
-        "title": "IPTV节目源",
-        "icon": "https://logo.clearbit.com/iptv.kman.xyz",
-        "url": "https://iptv.kman.xyz/"
-      },
-      {
-        "type": "link",
         "addDate": 1727328122331,
-        "title": "Docker加速",
+        "title": "Docker加速站",
         "icon": "https://logo.clearbit.com/docker.kman.xyz",
         "url": "https://docker.kman.xyz/"
       },
       {
         "type": "link",
-        "addDate": 1727492173524,
-        "title": "云数商户管理平台-SAAS自动售货机云平台",
-        "icon": "https://logo.clearbit.com/saas.ourvend.com",
-        "url": "https://saas.ourvend.com/#/dataCenter/fileDownloadCenter"
-      },
-      {
-        "type": "link",
-        "addDate": 1727492314090,
-        "title": "云数自动售货机管理系统",
-        "icon": "https://logo.clearbit.com/ourvend.com",
-        "url": "http://ourvend.com:83/Account/Login"
-      },
-      {
-        "type": "link",
-        "addDate": 1727150950281,
-        "title": "观澜湖海南OA",
-        "icon": "https://logo.clearbit.com/oamov.missionhillschina.com",
-        "url": "http://oamov.missionhillschina.com:8010/eoffice10/client/web/login"
-      },
-      {
-        "type": "link",
         "addDate": 1727528163556,
-        "title": "IPCheck.ing - 查看我的 IP 地址 ",
+        "title": "WhatismyIP",
         "icon": "https://logo.clearbit.com/ip.hksft.com",
         "url": "https://ip.hksft.com/#/"
       },
       {
         "type": "link",
-        "addDate": 1727694066497,
-        "title": "Navidrome私人音乐站",
-        "icon": "https://logo.clearbit.com/music.hksft.com",
-        "url": "https://music.hksft.com/app/#/album/all?sort=name&order=ASC&filter={}"
+        "addDate": 1729609957034,
+        "title": "音乐收集站 2W+ 外语音乐",
+        "icon": "https://logo.clearbit.com/music.kman.xyz",
+        "url": "https://music.kman.xyz/app/#/login"
+      },
+      {
+        "type": "link",
+        "addDate": 1729610000433,
+        "title": "网易音乐下载站",
+        "icon": "https://logo.clearbit.com/yes.hksft.com",
+        "url": "https://yes.hksft.com/"
       }
     ]
   }
