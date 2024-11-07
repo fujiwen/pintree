@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1727341333956,
+    "addDate": 1703152853215,
     "title": "书签栏",
     "children": [
       {
@@ -33,7 +33,7 @@
           {
             "type": "link",
             "addDate": 1727164467320,
-            "title": "1Panel腾讯-UbuntuHOST",
+            "title": "1Panel腾讯",
             "icon": "https://logo.clearbit.com/10.0.0.19",
             "url": "http://10.0.0.19:25733/fujiwen"
           },
@@ -221,6 +221,20 @@
           },
           {
             "type": "folder",
+            "addDate": 1727164454048,
+            "title": "腾讯Host",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727164418893,
+                "title": "Lucky腾讯",
+                "icon": "https://logo.clearbit.com/10.0.0.19",
+                "url": "http://10.0.0.19:16601/#/about"
+              }
+            ]
+          },
+          {
+            "type": "folder",
             "addDate": 1727164243508,
             "title": "时代城",
             "children": [
@@ -272,20 +286,6 @@
                 "title": "DDNS-GO时代城",
                 "icon": "https://logo.clearbit.com/10.0.0.2",
                 "url": "http://10.0.0.2:9876/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1727164454048,
-            "title": "腾讯Host",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1727164418893,
-                "title": "Lucky腾讯",
-                "icon": "https://logo.clearbit.com/10.0.0.19",
-                "url": "http://10.0.0.19:16601/#/about"
               }
             ]
           },
@@ -498,6 +498,146 @@
             "title": "酒店自助打印机后台",
             "icon": "https://logo.clearbit.com/yongfu.iyint.com",
             "url": "https://yongfu.iyint.com/Admin/Login"
+          },
+          {
+            "type": "link",
+            "addDate": 1729611612537,
+            "title": "电影",
+            "icon": "https://logo.clearbit.com/pluginschat.com",
+            "url": "https://pluginschat.com/docs/xunlei/%E7%94%B5%E5%BD%B1.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1729611680208,
+            "title": "电影",
+            "icon": "https://logo.clearbit.com/pluginschat.com",
+            "url": "https://pluginschat.com/docs/quark/%E7%94%B5%E5%BD%B1.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1729735791488,
+            "title": "夸克网盘分享",
+            "icon": "https://logo.clearbit.com/pan.quark.cn",
+            "url": "https://pan.quark.cn/s/78f2bf93b407#/list/share"
+          },
+          {
+            "type": "link",
+            "addDate": 1729737020598,
+            "title": "懒盘聚合搜索 - 提供全网的网盘搜索引擎网站的聚合服务",
+            "icon": "https://logo.clearbit.com/so.lzpanx.com",
+            "url": "https://so.lzpanx.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729737172540,
+            "title": "ACCOR Home",
+            "icon": "https://logo.clearbit.com/accor.sharepoint.com",
+            "url": "https://accor.sharepoint.com/sites/ACCORHOTELSChinaIT-ALL/SitePages/Home.aspx?csf=1&web=1&e=qVGMqA&CID=650e78f6-fd92-4f6e-928f-3b8e6527f942"
+          },
+          {
+            "type": "link",
+            "addDate": 1729737765635,
+            "title": "迅雷云盘",
+            "icon": "https://logo.clearbit.com/pan.xunlei.com",
+            "url": "https://pan.xunlei.com/s/VO9Odijh-oRcrFnNUs5F2deqA1?pwd=w2hs&path=%2F%E8%BF%85%E9%9B%B7%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%2F%E7%94%B5%E5%BD%B1"
+          },
+          {
+            "type": "link",
+            "addDate": 1729748483895,
+            "title": "混合盘 - 自定义规则类APP - 可搜索全网网盘、磁力资源",
+            "icon": "https://logo.clearbit.com/hunhepan.com",
+            "url": "https://hunhepan.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729766463081,
+            "title": "开源合集",
+            "icon": "https://logo.clearbit.com/higithub.herotops.xyz",
+            "url": "https://higithub.herotops.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729766952575,
+            "title": "网不好的不要点，我要吹爆这十二个神级BT下载网站！它们才是影视资源网站中的“YYDS”_软件应用_什么值得买",
+            "icon": "https://logo.clearbit.com/post.smzdm.com",
+            "url": "https://post.smzdm.com/p/aqxlw702/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729767012462,
+            "title": "RARBG Rarbg Index page - RARBG - RARBG Torrents",
+            "icon": "https://logo.clearbit.com/www2.rarbggo.to",
+            "url": "https://www2.rarbggo.to/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729838177186,
+            "title": "Torlock - The No Fakes Torrent Site.",
+            "icon": "https://logo.clearbit.com/www.torlock2.com",
+            "url": "https://www.torlock2.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730093624709,
+            "title": "百望云登录",
+            "icon": "https://logo.clearbit.com/www.baiwang.com",
+            "url": "https://www.baiwang.com/mainsite/src/html/login/login.html?redirectUrl=https%3A%2F%2Fwww.baiwang.com%2FuserCenterAlone-ui%2Fusercenter"
+          },
+          {
+            "type": "link",
+            "addDate": 1730097000266,
+            "title": "4K纪录片UHD 2160P 4K电影纪录片合辑_专题_合集资源下载 4K世界",
+            "icon": "https://logo.clearbit.com/www.4ksj.com",
+            "url": "https://www.4ksj.com/zt/jlp.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1730719538942,
+            "title": "镜像加速 - Monlor's Blog",
+            "icon": "https://logo.clearbit.com/www.monlor.com",
+            "url": "https://www.monlor.com/docker.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1730818035489,
+            "title": "aleksey-hoffman/sigma-file-manager at v2",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/aleksey-hoffman/sigma-file-manager/tree/v2?tab=readme-ov-file"
+          },
+          {
+            "type": "link",
+            "addDate": 1730860738022,
+            "title": "企鹅人 The Penguin (2024) - 电影云集（bbs.dyyjpro.com）影视网盘资源分享社区提供夸克网盘、百度网盘、迅雷云盘资源免费下载。",
+            "icon": "https://logo.clearbit.com/bbs.dyyjpro.com",
+            "url": "https://bbs.dyyjpro.com/d/12504"
+          },
+          {
+            "type": "link",
+            "addDate": 1730861363427,
+            "title": "2024最新电影,热门电影排行榜,高清高分电影,1080P,4K电影下载-夸克网盘吧-第4页",
+            "icon": "https://logo.clearbit.com/www.kuakeba.top",
+            "url": "https://www.kuakeba.top/yunpan/movie/page/4"
+          },
+          {
+            "type": "link",
+            "addDate": 1730861400468,
+            "title": "逆鳞 (2024) 4K高码 国语中字-沈腾首部犯罪题材电影-夸克网盘吧",
+            "icon": "https://logo.clearbit.com/www.kuakeba.top",
+            "url": "https://www.kuakeba.top/72856.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1730898315905,
+            "title": "夸克网盘分享",
+            "icon": "https://logo.clearbit.com/pan.quark.cn",
+            "url": "https://pan.quark.cn/s/78f2bf93b407#/list/share/a1037741eb104216aab76ae7876d2b7a-%E5%A4%B8%E5%85%8B%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E6%80%BB%E7%9B%AE%E5%BD%95"
+          },
+          {
+            "type": "link",
+            "addDate": 1730899186741,
+            "title": "夸克网盘",
+            "icon": "https://logo.clearbit.com/pan.quark.cn",
+            "url": "https://pan.quark.cn/list#/list/all"
           }
         ]
       },
@@ -531,10 +671,10 @@
       },
       {
         "type": "link",
-        "addDate": 1729609957034,
-        "title": "音乐收集站 2W+ 外语音乐",
-        "icon": "https://logo.clearbit.com/music.kman.xyz",
-        "url": "https://music.kman.xyz/app/#/login"
+        "addDate": 1729748665152,
+        "title": "Accor Tech Homepage",
+        "icon": "https://logo.clearbit.com/s.hksft.com",
+        "url": "https://s.hksft.com/ipgf1"
       },
       {
         "type": "link",
@@ -542,6 +682,13 @@
         "title": "网易音乐下载站",
         "icon": "https://logo.clearbit.com/yes.hksft.com",
         "url": "https://yes.hksft.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1729609957034,
+        "title": "音乐收集站 2W+ 外语音乐",
+        "icon": "https://logo.clearbit.com/music.kman.xyz",
+        "url": "https://music.kman.xyz/app/#/login"
       }
     ]
   }
