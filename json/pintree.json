@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1703152853215,
+    "addDate": 1727341333956,
     "title": "书签栏",
     "children": [
       {
@@ -36,13 +36,6 @@
             "title": "1Panel腾讯",
             "icon": "https://logo.clearbit.com/10.0.0.19",
             "url": "http://10.0.0.19:25733/fujiwen"
-          },
-          {
-            "type": "link",
-            "addDate": 1728566719076,
-            "title": "1Panel - Minio",
-            "icon": "https://logo.clearbit.com/10.0.0.21",
-            "url": "http://10.0.0.21:18181/fujiwen"
           },
           {
             "type": "link",
@@ -300,6 +293,20 @@
                 "title": "Marcom Files",
                 "icon": "https://logo.clearbit.com/10.135.33.41",
                 "url": "http://10.135.33.41:5245/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732521888025,
+                "title": "酒店服务优化管理平台",
+                "icon": "https://logo.clearbit.com/oaas.3dfcscn.com",
+                "url": "https://oaas.3dfcscn.com/hsms/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732548269729,
+                "title": "SSL Certificate Monitor",
+                "icon": "https://logo.clearbit.com/grafana.kman.xyz",
+                "url": "https://grafana.kman.xyz/public-dashboards/21e9826d03254fa4b1b6faec41f1f130"
               }
             ]
           },
@@ -323,6 +330,48 @@
                 "url": "https://192.168.0.33:9443/#!/auth"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1731391580988,
+            "title": "CF2",
+            "icon": "https://logo.clearbit.com/cf2.kman.shop",
+            "url": "https://cf2.kman.shop/e27217ca-0961-4ad1-bfd2-9ba5e79e4e8c"
+          },
+          {
+            "type": "link",
+            "addDate": 1731911088892,
+            "title": "V2Ray节点转换工具 | nuxt-app",
+            "icon": "https://logo.clearbit.com/v2rayse.com",
+            "url": "https://v2rayse.com/node-convert"
+          },
+          {
+            "type": "link",
+            "addDate": 1731936650302,
+            "title": "凑十法破十法借十法计算题，电子版可打印，分解式图让小朋友轻松掌握",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzA3MDUwMjM3NA==&mid=2456644828&idx=1&sn=8926162fe68ba80f5afc7a9fd1d4bca5&chksm=88a21e55bfd5974349181286540792ee152b8ed3ba83baf09bbbda9c2c14429d0ced36c19e79&scene=27"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1731251238924,
+        "title": "加速站",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727328122331,
+            "title": "Docker加速站",
+            "icon": "https://logo.clearbit.com/docker.kman.xyz",
+            "url": "https://docker.kman.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731391582283,
+            "title": "新标签页",
+            "icon": "https://logo.clearbit.com/cf2.kman.shop",
+            "url": "http://cf2.kman.shop/e27217ca-0961-4ad1-bfd2-9ba5e79e4e8c"
           }
         ]
       },
@@ -638,6 +687,76 @@
             "title": "夸克网盘",
             "icon": "https://logo.clearbit.com/pan.quark.cn",
             "url": "https://pan.quark.cn/list#/list/all"
+          },
+          {
+            "type": "link",
+            "addDate": 1732067593936,
+            "title": "StarsL.cn Dashboards | Grafana Labs",
+            "icon": "https://logo.clearbit.com/grafana.com",
+            "url": "https://grafana.com/orgs/starsliao/dashboards"
+          },
+          {
+            "type": "link",
+            "addDate": 1732091488486,
+            "title": "Awesome Prometheus alerts | Collection of alerting rules",
+            "icon": "https://logo.clearbit.com/samber.github.io",
+            "url": "https://samber.github.io/awesome-prometheus-alerts/rules"
+          },
+          {
+            "type": "link",
+            "addDate": 1732107670451,
+            "title": "Cisco Feature Navigator",
+            "icon": "https://logo.clearbit.com/cfnng.cisco.com",
+            "url": "https://cfnng.cisco.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732109853298,
+            "title": "whale_life的博客_Prometheus_51CTO博客",
+            "icon": "https://logo.clearbit.com/blog.51cto.com",
+            "url": "https://blog.51cto.com/liujingyu/category9.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1732109862515,
+            "title": "(二) Prometheus 监控思科交换机---snmp_exporter配置文件修改_51CTO博客_思科交换机snmp配置实例",
+            "icon": "https://logo.clearbit.com/blog.51cto.com",
+            "url": "https://blog.51cto.com/liujingyu/2541727"
+          },
+          {
+            "type": "link",
+            "addDate": 1732109867635,
+            "title": "Prometheus监控交换机 函数 交换机监控模式_mob64ca13faa4e6的技术博客_51CTO博客",
+            "icon": "https://logo.clearbit.com/blog.51cto.com",
+            "url": "https://blog.51cto.com/u_16213593/9751216"
+          },
+          {
+            "type": "link",
+            "addDate": 1732197996582,
+            "title": "prometheus监控网络设备 拓扑图 prometheus监控端口状态_lanhy的技术博客_51CTO博客",
+            "icon": "https://logo.clearbit.com/blog.51cto.com",
+            "url": "https://blog.51cto.com/u_12959/11546949"
+          },
+          {
+            "type": "link",
+            "addDate": 1732198206324,
+            "title": "Prometheus黑盒测试模块，监控TCP端口+ HTTP/HTTPS路由状态_prometheus监控端口状态-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/weixin_45310323/article/details/132928922"
+          },
+          {
+            "type": "link",
+            "addDate": 1732264820749,
+            "title": "【漏洞复现】蓝凌OA近期公开几个漏洞汇总 – Adminxe's Blog",
+            "icon": "https://logo.clearbit.com/www.adminxe.com",
+            "url": "https://www.adminxe.com/2420.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1731060931625,
+            "title": "emoji.mx",
+            "icon": "https://logo.clearbit.com/emoji.mx",
+            "url": "https://emoji.mx/"
           }
         ]
       },
@@ -657,17 +776,17 @@
       },
       {
         "type": "link",
-        "addDate": 1727328122331,
-        "title": "Docker加速站",
-        "icon": "https://logo.clearbit.com/docker.kman.xyz",
-        "url": "https://docker.kman.xyz/"
-      },
-      {
-        "type": "link",
         "addDate": 1727528163556,
         "title": "WhatismyIP",
         "icon": "https://logo.clearbit.com/ip.hksft.com",
         "url": "https://ip.hksft.com/#/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732164438118,
+        "title": "Global configuration",
+        "icon": "https://logo.clearbit.com/samber.github.io",
+        "url": "https://samber.github.io/awesome-prometheus-alerts/alertmanager"
       },
       {
         "type": "link",
@@ -689,6 +808,13 @@
         "title": "音乐收集站 2W+ 外语音乐",
         "icon": "https://logo.clearbit.com/music.kman.xyz",
         "url": "https://music.kman.xyz/app/#/login"
+      },
+      {
+        "type": "link",
+        "addDate": 1731034065095,
+        "title": "NewsNow | 关注",
+        "icon": "https://logo.clearbit.com/news.kman.xyz",
+        "url": "https://news.kman.xyz/"
       }
     ]
   }
