@@ -757,8 +757,22 @@
             "title": "emoji.mx",
             "icon": "https://logo.clearbit.com/emoji.mx",
             "url": "https://emoji.mx/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732164438118,
+            "title": "Global configuration",
+            "icon": "https://logo.clearbit.com/samber.github.io",
+            "url": "https://samber.github.io/awesome-prometheus-alerts/alertmanager"
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1729748665152,
+        "title": "Accor Tech Homepage",
+        "icon": "https://logo.clearbit.com/s.hksft.com",
+        "url": "https://s.hksft.com/ipgf1"
       },
       {
         "type": "link",
@@ -783,20 +797,6 @@
       },
       {
         "type": "link",
-        "addDate": 1732164438118,
-        "title": "Global configuration",
-        "icon": "https://logo.clearbit.com/samber.github.io",
-        "url": "https://samber.github.io/awesome-prometheus-alerts/alertmanager"
-      },
-      {
-        "type": "link",
-        "addDate": 1729748665152,
-        "title": "Accor Tech Homepage",
-        "icon": "https://logo.clearbit.com/s.hksft.com",
-        "url": "https://s.hksft.com/ipgf1"
-      },
-      {
-        "type": "link",
         "addDate": 1729610000433,
         "title": "网易音乐下载站",
         "icon": "https://logo.clearbit.com/yes.hksft.com",
@@ -815,6 +815,62 @@
         "title": "NewsNow | 关注",
         "icon": "https://logo.clearbit.com/news.kman.xyz",
         "url": "https://news.kman.xyz/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1732712219970,
+        "title": "Grafana监控",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732712193137,
+            "title": "AKA SNMP Network(网络设备监控) - 仪表板 - Grafana",
+            "icon": "https://logo.clearbit.com/grafana.kman.xyz",
+            "url": "https://grafana.kman.xyz/d/6yye1yA7k2/00aac0a?from=now-5m&to=now&var-Job=Office_Network&var-instance=10.0.99.11&var-Interface=Gi0%2F12&var-desc="
+          },
+          {
+            "type": "link",
+            "addDate": 1732712229434,
+            "title": "ACCOR NETWORK - 仪表板 - Grafana",
+            "icon": "https://logo.clearbit.com/grafana.kman.xyz",
+            "url": "https://grafana.kman.xyz/d/6yye1yA7k/accor-network?from=now-5m&to=now&var-Job=Office_Network&var-instance=10.0.99.11&var-Interface=Gi0%2F12&var-desc="
+          },
+          {
+            "type": "link",
+            "addDate": 1732712237546,
+            "title": "POS监控 - Grafana",
+            "icon": "https://logo.clearbit.com/grafana.kman.xyz",
+            "url": "https://grafana.kman.xyz/d/fcb1bdc8-fa9d-4bfd-b725-003b174473ad/blackbox-exporter-icmp?from=now-6h&to=now&var-job=$__all&var-instance=$__all"
+          },
+          {
+            "type": "link",
+            "addDate": 1732712253633,
+            "title": "Grafana",
+            "icon": "https://logo.clearbit.com/grafana.kman.xyz",
+            "url": "https://grafana.kman.xyz/d/StarsL-JOB-node/linuxe887aa-e7aea1-e79086-e69c8d-e58aa1-e599a8"
+          },
+          {
+            "type": "link",
+            "addDate": 1732712257262,
+            "title": "Linux自管理服务器 - 仪表板 - Grafana",
+            "icon": "https://logo.clearbit.com/grafana.kman.xyz",
+            "url": "https://grafana.kman.xyz/d/StarsL-JOB-node/linuxe887aa-e7aea1-e79086-e69c8d-e58aa1-e599a8?var-interval=3m&from=now-30m&to=now&timezone=browser&var-origin_prometheus=&var-job=Linux_Servers&var-name=$__all&var-instance=10.0.0.11:9100&var-total=7&var-device=$__all&var-maxmount=%2Fhome&var-show_name=Teleport"
+          },
+          {
+            "type": "link",
+            "addDate": 1732712267450,
+            "title": "SSL Certificate Monitor - 仪表板 - Grafana",
+            "icon": "https://logo.clearbit.com/grafana.kman.xyz",
+            "url": "https://grafana.kman.xyz/d/r8eWoHpGz/ssl-certificate-monitor?from=now-6h&to=now"
+          },
+          {
+            "type": "link",
+            "addDate": 1732712292294,
+            "title": "Windows Status - Prometheus - 仪表板 - Grafana",
+            "icon": "https://logo.clearbit.com/grafana.kman.xyz",
+            "url": "https://grafana.kman.xyz/d/-gjIslqnz/windows-status-prometheus?from=now-1h&to=now&var-job=Windows_Serviers&var-hostname=$__all&var-instance=10.135.29.225:9182&var-show_hostname=S-AA-H7970-IF&refresh=1m"
+          }
+        ]
       }
     ]
   }
