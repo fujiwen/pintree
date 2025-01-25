@@ -11,13 +11,6 @@
         "children": [
           {
             "type": "link",
-            "addDate": 1728566601130,
-            "title": "1panel时代城",
-            "icon": "https://logo.clearbit.com/10.0.0.2",
-            "url": "http://10.0.0.2:18181/fujiwen"
-          },
-          {
-            "type": "link",
             "addDate": 1728566657664,
             "title": "1Panel-ubuntuHost",
             "icon": "https://logo.clearbit.com/10.0.0.18",
@@ -29,13 +22,6 @@
             "title": "loading...",
             "icon": "https://logo.clearbit.com/10.0.0.19",
             "url": "http://10.0.0.19:25733/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727164467320,
-            "title": "1Panel腾讯",
-            "icon": "https://logo.clearbit.com/10.0.0.19",
-            "url": "http://10.0.0.19:25733/fujiwen"
           },
           {
             "type": "link",
@@ -51,6 +37,20 @@
         "addDate": 1726723637367,
         "title": "Github",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1727172819118,
+            "title": "复古终端 GIF 展示 GitHub 个人资料x0rzavi/github-readme-terminal: ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/x0rzavi/github-readme-terminal"
+          },
+          {
+            "type": "link",
+            "addDate": 1727243351036,
+            "title": "跨平台的剪贴板管理工具EcoPasteHub/EcoPaste: 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/EcoPasteHub/EcoPaste"
+          },
           {
             "type": "link",
             "addDate": 1726723597690,
@@ -123,17 +123,52 @@
           },
           {
             "type": "link",
-            "addDate": 1727172819118,
-            "title": "复古终端 GIF 展示 GitHub 个人资料x0rzavi/github-readme-terminal: ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀",
+            "addDate": 1737644721669,
+            "title": "kangarooking/bookmark-sage: Bookmark Sage 是一个基于 AI 的 Chrome 浏览器扩展，能够智能地管理和组织您的浏览器书签。它使用 AI 技术自动分析网页内容，为书签推荐最合适的书签分类，帮助用户保持书签结构的整洁与条理。",
             "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/x0rzavi/github-readme-terminal"
+            "url": "https://github.com/kangarooking/bookmark-sage"
           },
           {
             "type": "link",
-            "addDate": 1727243351036,
-            "title": "跨平台的剪贴板管理工具EcoPasteHub/EcoPaste: 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool",
+            "addDate": 1729582624365,
+            "title": "10h30/macos-sonoma-efi-opencore-hp-elitedesk-800-g4-g5-mini at vnrom.net",
             "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/EcoPasteHub/EcoPaste"
+            "url": "https://github.com/10h30/macos-sonoma-efi-opencore-hp-elitedesk-800-g4-g5-mini?ref=vnrom.net"
+          },
+          {
+            "type": "link",
+            "addDate": 1730818035489,
+            "title": "aleksey-hoffman/sigma-file-manager at v2",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/aleksey-hoffman/sigma-file-manager/tree/v2?tab=readme-ov-file"
+          },
+          {
+            "type": "link",
+            "addDate": 1734531808884,
+            "title": "WoodGoose/awesome-cow-plugins: 这个仓库主要是收集CoW(chatgpt-on-wechat)的插件，欢迎补充加入看到、用过或新开发的插件。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/WoodGoose/awesome-cow-plugins"
+          },
+          {
+            "type": "link",
+            "addDate": 1736130610799,
+            "title": "快速开始 | MediaGo",
+            "icon": "https://logo.clearbit.com/downloader.caorushizi.cn",
+            "url": "https://downloader.caorushizi.cn/guides.html?form=github"
+          },
+          {
+            "type": "link",
+            "addDate": 1737647815707,
+            "title": "LC044/WeChatMsg: 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/LC044/WeChatMsg"
+          },
+          {
+            "type": "link",
+            "addDate": 1737648181405,
+            "title": "24-2021/Piranha: 内网配置文件快速收集",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/24-2021/Piranha"
           }
         ]
       },
@@ -142,6 +177,13 @@
         "addDate": 1727087219491,
         "title": "Linux技巧",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1734071870498,
+            "title": "",
+            "icon": "https://logo.clearbit.com/www.youtube.com",
+            "url": "https://www.youtube.com/shorts/p9iK_9YtMAU"
+          },
           {
             "type": "link",
             "addDate": 1727087202581,
@@ -155,6 +197,13 @@
             "title": "alpine-dhcp - WOAHBase Alpine项目合集",
             "icon": "https://logo.clearbit.com/woahbase.online",
             "url": "https://woahbase.online/images/alpine-dhcp/#as-a-service"
+          },
+          {
+            "type": "link",
+            "addDate": 1735102640759,
+            "title": "Linux下使用inotify-tools实现文件监控并自动推送钉钉webhook告警-腾讯云开发者社区-腾讯云",
+            "icon": "https://logo.clearbit.com/cloud.tencent.com",
+            "url": "https://cloud.tencent.com/developer/article/2427949"
           }
         ]
       },
@@ -163,55 +212,6 @@
         "addDate": 1727152604496,
         "title": "SelfHosted自建服务",
         "children": [
-          {
-            "type": "link",
-            "addDate": 1727163821467,
-            "title": "PDF工具",
-            "icon": "https://logo.clearbit.com/pdf.hksft.com",
-            "url": "https://pdf.hksft.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727163843404,
-            "title": "RSS公众号",
-            "icon": "https://logo.clearbit.com/wewe.hksft.com",
-            "url": "https://wewe.hksft.com/dash/feeds/MP_WXS_3093627441"
-          },
-          {
-            "type": "link",
-            "addDate": 1727163891828,
-            "title": "Mychecks计划任务检查",
-            "icon": "https://logo.clearbit.com/cron.hksft.com",
-            "url": "https://cron.hksft.com/projects/f126f545-47d8-4104-893d-f811de4ee94b/checks/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727163966116,
-            "title": "Xtransfer文件分享",
-            "icon": "https://logo.clearbit.com/x.hksft.com",
-            "url": "https://x.hksft.com/#/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727164024246,
-            "title": "RAWeb - 用远桌打开APP",
-            "icon": "https://logo.clearbit.com/rdp.hksft.com",
-            "url": "https://rdp.hksft.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727164052041,
-            "title": "Audio Station群晖音乐库",
-            "icon": "https://logo.clearbit.com/music.hksft.com",
-            "url": "https://music.hksft.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727164179186,
-            "title": "HertzBeat服务监控",
-            "icon": "https://logo.clearbit.com/10.0.0.11",
-            "url": "http://10.0.0.11:1157/"
-          },
           {
             "type": "folder",
             "addDate": 1727164454048,
@@ -223,6 +223,13 @@
                 "title": "Lucky腾讯",
                 "icon": "https://logo.clearbit.com/10.0.0.19",
                 "url": "http://10.0.0.19:16601/#/about"
+              },
+              {
+                "type": "link",
+                "addDate": 1727164467320,
+                "title": "1Panel腾讯",
+                "icon": "https://logo.clearbit.com/10.0.0.19",
+                "url": "http://10.0.0.19:25733/fujiwen"
               }
             ]
           },
@@ -279,6 +286,13 @@
                 "title": "DDNS-GO时代城",
                 "icon": "https://logo.clearbit.com/10.0.0.2",
                 "url": "http://10.0.0.2:9876/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728566601130,
+                "title": "1panel时代城",
+                "icon": "https://logo.clearbit.com/10.0.0.2",
+                "url": "http://10.0.0.2:18181/fujiwen"
               }
             ]
           },
@@ -303,10 +317,31 @@
               },
               {
                 "type": "link",
-                "addDate": 1732548269729,
-                "title": "SSL Certificate Monitor",
-                "icon": "https://logo.clearbit.com/grafana.kman.xyz",
-                "url": "https://grafana.kman.xyz/public-dashboards/21e9826d03254fa4b1b6faec41f1f130"
+                "addDate": 1727164130155,
+                "title": "酒店自助打印机后台",
+                "icon": "https://logo.clearbit.com/yongfu.iyint.com",
+                "url": "https://yongfu.iyint.com/Admin/Login"
+              },
+              {
+                "type": "link",
+                "addDate": 1729737172540,
+                "title": "ACCOR Home",
+                "icon": "https://logo.clearbit.com/accor.sharepoint.com",
+                "url": "https://accor.sharepoint.com/sites/ACCORHOTELSChinaIT-ALL/SitePages/Home.aspx?csf=1&web=1&e=qVGMqA&CID=650e78f6-fd92-4f6e-928f-3b8e6527f942"
+              },
+              {
+                "type": "link",
+                "addDate": 1735119272500,
+                "title": "IT Compliance Review for Hotel 2024 V1.2.xlsx",
+                "icon": "https://logo.clearbit.com/accor.sharepoint.com",
+                "url": "https://accor.sharepoint.com/:x:/r/sites/AccorTechCNHub/_layouts/15/Doc.aspx?sourcedoc=%7B2F7391C2-85BD-402F-BCEC-BA868BFE7AC9%7D&file=IT%20Compliance%20Review%20for%20Hotel%202024%20V1.2.xlsx&action=default&mobileredirect=true"
+              },
+              {
+                "type": "link",
+                "addDate": 1729748665152,
+                "title": "Accor Tech Homepage",
+                "icon": "https://logo.clearbit.com/s.hksft.com",
+                "url": "https://s.hksft.com/ipgf1"
               }
             ]
           },
@@ -333,6 +368,55 @@
           },
           {
             "type": "link",
+            "addDate": 1727163821467,
+            "title": "PDF工具",
+            "icon": "https://logo.clearbit.com/pdf.hksft.com",
+            "url": "https://pdf.hksft.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727163843404,
+            "title": "RSS公众号",
+            "icon": "https://logo.clearbit.com/wewe.hksft.com",
+            "url": "https://wewe.hksft.com/dash/feeds/MP_WXS_3093627441"
+          },
+          {
+            "type": "link",
+            "addDate": 1727163891828,
+            "title": "Mychecks计划任务检查",
+            "icon": "https://logo.clearbit.com/cron.hksft.com",
+            "url": "https://cron.hksft.com/projects/f126f545-47d8-4104-893d-f811de4ee94b/checks/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727163966116,
+            "title": "Xtransfer文件分享",
+            "icon": "https://logo.clearbit.com/x.hksft.com",
+            "url": "https://x.hksft.com/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164024246,
+            "title": "RAWeb - 用远桌打开APP",
+            "icon": "https://logo.clearbit.com/rdp.hksft.com",
+            "url": "https://rdp.hksft.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164052041,
+            "title": "Audio Station群晖音乐库",
+            "icon": "https://logo.clearbit.com/music.hksft.com",
+            "url": "https://music.hksft.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727164179186,
+            "title": "HertzBeat服务监控",
+            "icon": "https://logo.clearbit.com/10.0.0.11",
+            "url": "http://10.0.0.11:1157/"
+          },
+          {
+            "type": "link",
             "addDate": 1731391580988,
             "title": "CF2",
             "icon": "https://logo.clearbit.com/cf2.kman.shop",
@@ -347,10 +431,59 @@
           },
           {
             "type": "link",
-            "addDate": 1731936650302,
-            "title": "凑十法破十法借十法计算题，电子版可打印，分解式图让小朋友轻松掌握",
+            "addDate": 1734010262386,
+            "title": "One-KVM Session",
+            "icon": "https://logo.clearbit.com/10.0.0.13",
+            "url": "https://10.0.0.13:4430/kvm/#"
+          },
+          {
+            "type": "link",
+            "addDate": 1728549288850,
+            "title": "个人部署immich以及遇到问题和解决方案 - 哔哩哔哩",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/read/cv36364378/?jump_opus=1"
+          },
+          {
+            "type": "link",
+            "addDate": 1730719538942,
+            "title": "镜像加速 - Monlor's Blog",
+            "icon": "https://logo.clearbit.com/www.monlor.com",
+            "url": "https://www.monlor.com/docker.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1735134789553,
+            "title": "hanxi/xiaomusic - Docker Image | Docker Hub",
+            "icon": "https://logo.clearbit.com/hub.docker.com",
+            "url": "https://hub.docker.com/r/hanxi/xiaomusic"
+          },
+          {
+            "type": "link",
+            "addDate": 1727528163556,
+            "title": "WhatismyIP",
+            "icon": "https://logo.clearbit.com/ip.hksft.com",
+            "url": "https://ip.hksft.com/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733210825725,
+            "title": "USTC Open Source Software Mirror",
+            "icon": "https://logo.clearbit.com/mirrors.ustc.edu.cn",
+            "url": "https://mirrors.ustc.edu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737648040572,
+            "title": "具有CLI命令和Web界面的WOL",
             "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-            "url": "https://mp.weixin.qq.com/s?__biz=MzA3MDUwMjM3NA==&mid=2456644828&idx=1&sn=8926162fe68ba80f5afc7a9fd1d4bca5&chksm=88a21e55bfd5974349181286540792ee152b8ed3ba83baf09bbbda9c2c14429d0ced36c19e79&scene=27"
+            "url": "https://mp.weixin.qq.com/s/uxJCX94I9rL_G6_OYInVrw"
+          },
+          {
+            "type": "link",
+            "addDate": 1737648130614,
+            "title": "内网配置文件快速收集工具",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s/jD04oosli_5CezxT88Xdgg"
           }
         ]
       },
@@ -381,6 +514,34 @@
         "title": "Collection收集",
         "children": [
           {
+            "type": "folder",
+            "addDate": 1728310476095,
+            "title": "Nintendo Switch",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728310071647,
+                "title": "switch喵喵喵 - 塞尔达传说 智慧的再现（The Legend of Zelda Echoes of Wisdom）v1.01中文版",
+                "icon": "https://logo.clearbit.com/www.switchmmm.com",
+                "url": "https://www.switchmmm.com/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4-%E6%99%BA%E6%85%A7%E7%9A%84%E5%86%8D%E7%8E%B0%EF%BC%88the-legend-of-zelda-echoes-of-wisdom%EF%BC%89v1.01%E4%B8%AD%E6%96%87%E7%89%88"
+              },
+              {
+                "type": "link",
+                "addDate": 1728308874304,
+                "title": "搭建游戏库-Playnite",
+                "icon": "https://logo.clearbit.com/post.smzdm.com",
+                "url": "https://post.smzdm.com/p/a0x538z9/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728311025371,
+                "title": "塞尔达传说 智慧的再现（The Legend of Zelda Echoes of Wisdom）v1.01中文版",
+                "icon": "https://logo.clearbit.com/www.flysheep6.com",
+                "url": "https://www.flysheep6.com/archives/52090"
+              }
+            ]
+          },
+          {
             "type": "link",
             "addDate": 1727269175652,
             "title": "docker搭建网易云音乐API-CSDN博客",
@@ -407,13 +568,6 @@
             "title": "Spotify - SPA Music",
             "icon": "https://logo.clearbit.com/open.spotify.com",
             "url": "https://open.spotify.com/artist/1SCcGiO55FdSBUB1EHUlhc"
-          },
-          {
-            "type": "link",
-            "addDate": 1728549288850,
-            "title": "个人部署immich以及遇到问题和解决方案 - 哔哩哔哩",
-            "icon": "https://logo.clearbit.com/www.bilibili.com",
-            "url": "https://www.bilibili.com/read/cv36364378/?jump_opus=1"
           },
           {
             "type": "link",
@@ -473,41 +627,6 @@
           },
           {
             "type": "link",
-            "addDate": 1729582624365,
-            "title": "10h30/macos-sonoma-efi-opencore-hp-elitedesk-800-g4-g5-mini at vnrom.net",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/10h30/macos-sonoma-efi-opencore-hp-elitedesk-800-g4-g5-mini?ref=vnrom.net"
-          },
-          {
-            "type": "folder",
-            "addDate": 1728310476095,
-            "title": "Nintendo Switch",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1728310071647,
-                "title": "switch喵喵喵 - 塞尔达传说 智慧的再现（The Legend of Zelda Echoes of Wisdom）v1.01中文版",
-                "icon": "https://logo.clearbit.com/www.switchmmm.com",
-                "url": "https://www.switchmmm.com/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4-%E6%99%BA%E6%85%A7%E7%9A%84%E5%86%8D%E7%8E%B0%EF%BC%88the-legend-of-zelda-echoes-of-wisdom%EF%BC%89v1.01%E4%B8%AD%E6%96%87%E7%89%88"
-              },
-              {
-                "type": "link",
-                "addDate": 1728308874304,
-                "title": "搭建游戏库-Playnite",
-                "icon": "https://logo.clearbit.com/post.smzdm.com",
-                "url": "https://post.smzdm.com/p/a0x538z9/"
-              },
-              {
-                "type": "link",
-                "addDate": 1728311025371,
-                "title": "塞尔达传说 智慧的再现（The Legend of Zelda Echoes of Wisdom）v1.01中文版",
-                "icon": "https://logo.clearbit.com/www.flysheep6.com",
-                "url": "https://www.flysheep6.com/archives/52090"
-              }
-            ]
-          },
-          {
-            "type": "link",
             "addDate": 1729352792522,
             "title": "HAIDAN :: 登录 海胆之家 - Powered by NexusPHP",
             "icon": "https://logo.clearbit.com/www.haidan.video",
@@ -543,13 +662,6 @@
           },
           {
             "type": "link",
-            "addDate": 1727164130155,
-            "title": "酒店自助打印机后台",
-            "icon": "https://logo.clearbit.com/yongfu.iyint.com",
-            "url": "https://yongfu.iyint.com/Admin/Login"
-          },
-          {
-            "type": "link",
             "addDate": 1729611612537,
             "title": "电影",
             "icon": "https://logo.clearbit.com/pluginschat.com",
@@ -575,13 +687,6 @@
             "title": "懒盘聚合搜索 - 提供全网的网盘搜索引擎网站的聚合服务",
             "icon": "https://logo.clearbit.com/so.lzpanx.com",
             "url": "https://so.lzpanx.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1729737172540,
-            "title": "ACCOR Home",
-            "icon": "https://logo.clearbit.com/accor.sharepoint.com",
-            "url": "https://accor.sharepoint.com/sites/ACCORHOTELSChinaIT-ALL/SitePages/Home.aspx?csf=1&web=1&e=qVGMqA&CID=650e78f6-fd92-4f6e-928f-3b8e6527f942"
           },
           {
             "type": "link",
@@ -641,20 +746,6 @@
           },
           {
             "type": "link",
-            "addDate": 1730719538942,
-            "title": "镜像加速 - Monlor's Blog",
-            "icon": "https://logo.clearbit.com/www.monlor.com",
-            "url": "https://www.monlor.com/docker.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1730818035489,
-            "title": "aleksey-hoffman/sigma-file-manager at v2",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/aleksey-hoffman/sigma-file-manager/tree/v2?tab=readme-ov-file"
-          },
-          {
-            "type": "link",
             "addDate": 1730860738022,
             "title": "企鹅人 The Penguin (2024) - 电影云集（bbs.dyyjpro.com）影视网盘资源分享社区提供夸克网盘、百度网盘、迅雷云盘资源免费下载。",
             "icon": "https://logo.clearbit.com/bbs.dyyjpro.com",
@@ -690,59 +781,10 @@
           },
           {
             "type": "link",
-            "addDate": 1732067593936,
-            "title": "StarsL.cn Dashboards | Grafana Labs",
-            "icon": "https://logo.clearbit.com/grafana.com",
-            "url": "https://grafana.com/orgs/starsliao/dashboards"
-          },
-          {
-            "type": "link",
-            "addDate": 1732091488486,
-            "title": "Awesome Prometheus alerts | Collection of alerting rules",
-            "icon": "https://logo.clearbit.com/samber.github.io",
-            "url": "https://samber.github.io/awesome-prometheus-alerts/rules"
-          },
-          {
-            "type": "link",
             "addDate": 1732107670451,
             "title": "Cisco Feature Navigator",
             "icon": "https://logo.clearbit.com/cfnng.cisco.com",
             "url": "https://cfnng.cisco.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1732109853298,
-            "title": "whale_life的博客_Prometheus_51CTO博客",
-            "icon": "https://logo.clearbit.com/blog.51cto.com",
-            "url": "https://blog.51cto.com/liujingyu/category9.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1732109862515,
-            "title": "(二) Prometheus 监控思科交换机---snmp_exporter配置文件修改_51CTO博客_思科交换机snmp配置实例",
-            "icon": "https://logo.clearbit.com/blog.51cto.com",
-            "url": "https://blog.51cto.com/liujingyu/2541727"
-          },
-          {
-            "type": "link",
-            "addDate": 1732109867635,
-            "title": "Prometheus监控交换机 函数 交换机监控模式_mob64ca13faa4e6的技术博客_51CTO博客",
-            "icon": "https://logo.clearbit.com/blog.51cto.com",
-            "url": "https://blog.51cto.com/u_16213593/9751216"
-          },
-          {
-            "type": "link",
-            "addDate": 1732197996582,
-            "title": "prometheus监控网络设备 拓扑图 prometheus监控端口状态_lanhy的技术博客_51CTO博客",
-            "icon": "https://logo.clearbit.com/blog.51cto.com",
-            "url": "https://blog.51cto.com/u_12959/11546949"
-          },
-          {
-            "type": "link",
-            "addDate": 1732198206324,
-            "title": "Prometheus黑盒测试模块，监控TCP端口+ HTTP/HTTPS路由状态_prometheus监控端口状态-CSDN博客",
-            "icon": "https://logo.clearbit.com/blog.csdn.net",
-            "url": "https://blog.csdn.net/weixin_45310323/article/details/132928922"
           },
           {
             "type": "link",
@@ -760,67 +802,263 @@
           },
           {
             "type": "link",
-            "addDate": 1732164438118,
-            "title": "Global configuration",
-            "icon": "https://logo.clearbit.com/samber.github.io",
-            "url": "https://samber.github.io/awesome-prometheus-alerts/alertmanager"
+            "addDate": 1732715807949,
+            "title": "CH9329双头线使用说明-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/qishi3250/article/details/130596635?spm=1001.2014.3001.5501"
+          },
+          {
+            "type": "link",
+            "addDate": 1733301662615,
+            "title": "用户中心",
+            "icon": "https://logo.clearbit.com/user.ihuyi.com",
+            "url": "https://user.ihuyi.com/new/sms/overview"
+          },
+          {
+            "type": "link",
+            "addDate": 1733928028082,
+            "title": "Motrix配合解析站实现网盘不限速_哔哩哔哩_bilibili",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/video/BV1LezmYYEUS/?spm_id_from=333.1007.tianma.11-4-42.click&vd_source=fdf4a244f17e3af3a06d869758632418"
+          },
+          {
+            "type": "link",
+            "addDate": 1733928064705,
+            "title": "Windows Cleaner",
+            "icon": "https://logo.clearbit.com/wc.dyblog.online",
+            "url": "https://wc.dyblog.online/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734343072852,
+            "title": "土耳其苹果iCloud服务，手把手保姆级上车教程",
+            "icon": "https://logo.clearbit.com/probable-asteroid-cf3.notion.site",
+            "url": "https://probable-asteroid-cf3.notion.site/iCloud-111b28df95ae801eac18ee4921cfe9c5#111b28df95ae8031ae1fd4bde83b6026"
+          },
+          {
+            "type": "link",
+            "addDate": 1734496114560,
+            "title": "HTTP 请求工具,GET/POST请求测试工具 - ALAPI",
+            "icon": "https://logo.clearbit.com/alapi.cn",
+            "url": "https://alapi.cn/api/http/93"
+          },
+          {
+            "type": "link",
+            "addDate": 1734532287220,
+            "title": "玩转\"汉语新解\"？我用通义AI直出爆款文字卡片 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/langgptai.feishu.cn",
+            "url": "https://langgptai.feishu.cn/wiki/WKaEwX5LMirfJlkenf6cKGDGnJg"
+          },
+          {
+            "type": "link",
+            "addDate": 1734532341732,
+            "title": "Malette.Art",
+            "icon": "https://logo.clearbit.com/malette.art",
+            "url": "https://malette.art/workflow/21e8c53bd3a743c"
+          },
+          {
+            "type": "link",
+            "addDate": 1734532411876,
+            "title": "不懂代码，也能 3 小时打造并上架一款 AI 插件 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/langgptai.feishu.cn",
+            "url": "https://langgptai.feishu.cn/wiki/HTSEwQeMNiRTZIkXUaKcIQOanPb"
+          },
+          {
+            "type": "link",
+            "addDate": 1734665741574,
+            "title": "Accor – Webzine",
+            "icon": "https://logo.clearbit.com/webzine-actionnaires.accor.com",
+            "url": "https://webzine-actionnaires.accor.com/09_2024/en/article/158/culture.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1735103639539,
+            "title": "企业微信机器人发送文本、图片、文件、markdown、图文信息 - 哔哩哔哩",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/opus/875391601390649448"
+          },
+          {
+            "type": "link",
+            "addDate": 1735218993577,
+            "title": "这款国产开源的固定设备资产管理系统，非常实用！",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s/f0-muaxhUhrRoRVUDQTy9Q"
+          },
+          {
+            "type": "link",
+            "addDate": 1736350695924,
+            "title": "Cherry Studio",
+            "icon": "https://logo.clearbit.com/cherry-ai.com",
+            "url": "https://cherry-ai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736610912364,
+            "title": "PNG2ICO online convert PNG images to ICO",
+            "icon": "https://logo.clearbit.com/www.png2ico.net",
+            "url": "https://www.png2ico.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736759399616,
+            "title": "ForgeCore’s Portfolio of 3D Models",
+            "icon": "https://logo.clearbit.com/thangs.com",
+            "url": "https://thangs.com/designer/forgecore"
+          },
+          {
+            "type": "link",
+            "addDate": 1736760214655,
+            "title": "PDF Guru - Edit PDFs, Convert, and Sign with Our Easy-to-Use Tool",
+            "icon": "https://logo.clearbit.com/pdfguru.com",
+            "url": "https://pdfguru.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737007649095,
+            "title": "登录到您的帐户",
+            "icon": "https://logo.clearbit.com/login.microsoftonline.com",
+            "url": "https://login.microsoftonline.com/common/DeviceAuthTls/reprocess"
+          },
+          {
+            "type": "link",
+            "addDate": 1737549924085,
+            "title": "Cursor永久免费攻略：无限邮箱注册+重置机器码+Cursor试用期重置工具实现永久免费使用 - 苏米客XMSUM",
+            "icon": "https://logo.clearbit.com/www.xmsumi.com",
+            "url": "https://www.xmsumi.com/detail/275"
+          },
+          {
+            "type": "link",
+            "addDate": 1727163930325,
+            "title": "Readeck文章收藏站",
+            "icon": "https://logo.clearbit.com/readeck.hksft.com",
+            "url": "https://readeck.hksft.com/bookmarks/unread"
+          },
+          {
+            "type": "link",
+            "addDate": 1729610000433,
+            "title": "网易音乐下载站",
+            "icon": "https://logo.clearbit.com/yes.hksft.com",
+            "url": "https://yes.hksft.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729609957034,
+            "title": "音乐收集站 2W+ 外语音乐",
+            "icon": "https://logo.clearbit.com/music.kman.xyz",
+            "url": "https://music.kman.xyz/app/#/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1731034065095,
+            "title": "NewsNow | 关注",
+            "icon": "https://logo.clearbit.com/news.kman.xyz",
+            "url": "https://news.kman.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732798214511,
+            "title": "Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件",
+            "icon": "https://logo.clearbit.com/qwerty.kaiyi.cool",
+            "url": "https://qwerty.kaiyi.cool/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1737647983023,
+            "title": "Collection收集",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1737647983032,
+                "title": "儿童动画项目",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1737647983036,
+                    "title": "将儿童人物画作动画化的有趣项目",
+                    "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                    "url": "https://mp.weixin.qq.com/s/lWiA1hEiyZsZRnLHswGccg"
+                  }
+                ]
+              }
+            ]
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1729748665152,
-        "title": "Accor Tech Homepage",
-        "icon": "https://logo.clearbit.com/s.hksft.com",
-        "url": "https://s.hksft.com/ipgf1"
-      },
-      {
-        "type": "link",
-        "addDate": 1729609827562,
-        "title": "Xtransfer大附件分享",
-        "icon": "https://logo.clearbit.com/x.kman.xyz",
-        "url": "https://x.kman.xyz/#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1727163930325,
-        "title": "Readeck文章收藏站",
-        "icon": "https://logo.clearbit.com/readeck.hksft.com",
-        "url": "https://readeck.hksft.com/bookmarks/unread"
-      },
-      {
-        "type": "link",
-        "addDate": 1727528163556,
-        "title": "WhatismyIP",
-        "icon": "https://logo.clearbit.com/ip.hksft.com",
-        "url": "https://ip.hksft.com/#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1729610000433,
-        "title": "网易音乐下载站",
-        "icon": "https://logo.clearbit.com/yes.hksft.com",
-        "url": "https://yes.hksft.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1729609957034,
-        "title": "音乐收集站 2W+ 外语音乐",
-        "icon": "https://logo.clearbit.com/music.kman.xyz",
-        "url": "https://music.kman.xyz/app/#/login"
-      },
-      {
-        "type": "link",
-        "addDate": 1731034065095,
-        "title": "NewsNow | 关注",
-        "icon": "https://logo.clearbit.com/news.kman.xyz",
-        "url": "https://news.kman.xyz/"
       },
       {
         "type": "folder",
         "addDate": 1732712219970,
         "title": "Grafana监控",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1732548269729,
+            "title": "SSL Certificate Monitor",
+            "icon": "https://logo.clearbit.com/grafana.kman.xyz",
+            "url": "https://grafana.kman.xyz/public-dashboards/21e9826d03254fa4b1b6faec41f1f130"
+          },
+          {
+            "type": "link",
+            "addDate": 1732067593936,
+            "title": "StarsL.cn Dashboards | Grafana Labs",
+            "icon": "https://logo.clearbit.com/grafana.com",
+            "url": "https://grafana.com/orgs/starsliao/dashboards"
+          },
+          {
+            "type": "link",
+            "addDate": 1732091488486,
+            "title": "Awesome Prometheus alerts | Collection of alerting rules",
+            "icon": "https://logo.clearbit.com/samber.github.io",
+            "url": "https://samber.github.io/awesome-prometheus-alerts/rules"
+          },
+          {
+            "type": "link",
+            "addDate": 1732109853298,
+            "title": "whale_life的博客_Prometheus_51CTO博客",
+            "icon": "https://logo.clearbit.com/blog.51cto.com",
+            "url": "https://blog.51cto.com/liujingyu/category9.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1732109867635,
+            "title": "Prometheus监控交换机 函数 交换机监控模式_mob64ca13faa4e6的技术博客_51CTO博客",
+            "icon": "https://logo.clearbit.com/blog.51cto.com",
+            "url": "https://blog.51cto.com/u_16213593/9751216"
+          },
+          {
+            "type": "link",
+            "addDate": 1732109862515,
+            "title": "(二) Prometheus 监控思科交换机---snmp_exporter配置文件修改_51CTO博客_思科交换机snmp配置实例",
+            "icon": "https://logo.clearbit.com/blog.51cto.com",
+            "url": "https://blog.51cto.com/liujingyu/2541727"
+          },
+          {
+            "type": "link",
+            "addDate": 1732197996582,
+            "title": "prometheus监控网络设备 拓扑图 prometheus监控端口状态_lanhy的技术博客_51CTO博客",
+            "icon": "https://logo.clearbit.com/blog.51cto.com",
+            "url": "https://blog.51cto.com/u_12959/11546949"
+          },
+          {
+            "type": "link",
+            "addDate": 1732198206324,
+            "title": "Prometheus黑盒测试模块，监控TCP端口+ HTTP/HTTPS路由状态_prometheus监控端口状态-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/weixin_45310323/article/details/132928922"
+          },
+          {
+            "type": "link",
+            "addDate": 1732164438118,
+            "title": "Global configuration",
+            "icon": "https://logo.clearbit.com/samber.github.io",
+            "url": "https://samber.github.io/awesome-prometheus-alerts/alertmanager"
+          },
+          {
+            "type": "link",
+            "addDate": 1734311596070,
+            "title": "Grafana Dashboard for Veeam Backup & Replication | Grafana Labs",
+            "icon": "https://logo.clearbit.com/grafana.com",
+            "url": "https://grafana.com/grafana/dashboards/18854-grafana-dashboard-for-veeam-backup-replication/"
+          },
           {
             "type": "link",
             "addDate": 1732712193137,
@@ -869,8 +1107,35 @@
             "title": "Windows Status - Prometheus - 仪表板 - Grafana",
             "icon": "https://logo.clearbit.com/grafana.kman.xyz",
             "url": "https://grafana.kman.xyz/d/-gjIslqnz/windows-status-prometheus?from=now-1h&to=now&var-job=Windows_Serviers&var-hostname=$__all&var-instance=10.135.29.225:9182&var-show_hostname=S-AA-H7970-IF&refresh=1m"
+          },
+          {
+            "type": "link",
+            "addDate": 1733235304445,
+            "title": "服务器资源监控 | WatchAlert",
+            "icon": "https://logo.clearbit.com/cairry.github.io",
+            "url": "https://cairry.github.io/docs/Exporter/node.html"
           }
         ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1737647983018,
+        "title": "书签栏",
+        "children": []
+      },
+      {
+        "type": "link",
+        "addDate": 1736349644338,
+        "title": "DeepSeek - 探索未至之境",
+        "icon": "https://logo.clearbit.com/chat.deepseek.com",
+        "url": "https://chat.deepseek.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1729609827562,
+        "title": "Xtransfer大附件分享",
+        "icon": "https://logo.clearbit.com/x.kman.xyz",
+        "url": "https://x.kman.xyz/#/"
       }
     ]
   }
